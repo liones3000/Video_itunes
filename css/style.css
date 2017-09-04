@@ -1,4 +1,16 @@
 img {
 	float: left;
 	margin-right: 10px;
+	width: 100%;
+}
+.item {
+	max-width: 500px;
+	margin: auto;
+}
+.container {
+	margin-top: 100px;
+}
+.carousel-indicators {
+	bottom: inherit;
+	top: 10px;
 }
