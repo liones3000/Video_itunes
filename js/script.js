@@ -1,6 +1,6 @@
 console.clear();
 
-// (function($){
+(function($){
 
 function getVideo(query){
 	return $.ajax({
@@ -43,4 +43,4 @@ function requestVideo(value){
 
 		requestVideo(query);
 	});
-// })(jQuery);
+})(jQuery);
