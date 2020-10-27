@@ -1,4 +1,5 @@
 console.clear();
+var $ = jQuery;
 
 (function($){
 
